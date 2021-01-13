@@ -3,34 +3,34 @@
 - Name:  Brandon Dave
 - Email:  dave.15@wright.edu
 
-1. What is your Discord username?
+1. What is your Discord username?  
   Ganon#9652 nicknamed Brandon Dave
   
-2. What is your GitHub username?
+2. What is your GitHub username?  
   BDDave-Student
   
-3. What is the IP for your Ubuntu Linux server?
+3. What is the IP for your Ubuntu Linux server?  
   TBA
   
-4. What command did you use to ssh in to your Linux server?
+4. What command did you use to ssh in to your Linux server?  
   ssh -i [TBA Key] ubuntu@[TBA IP]
   
-5. What port does ssh use? 
+5. What port does ssh use?   
   22
 
-6. Insert a screenshot here of your successful connection
+6. Insert a screenshot here of your successful connection  
   ![successful connection](TBA-image)
   
-7. What is the IP for your Windows 2019 server?
+7. What is the IP for your Windows 2019 server?  
   TBA
   
-8. What remote desktop software did you use to connect to your Windows Server?
+8. What remote desktop software did you use to connect to your Windows Server?  
   Remote Desktop Connection
   
-9. What port does RDP use?
+9. What port does RDP use?  
 3389
 
-10. Insert a screenshot here of your successful connection
+10. Insert a screenshot here of your successful connection  
 ![windows successful connection](TBA-image)
 
 ### Provide a description of the following commands
