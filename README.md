@@ -10,19 +10,20 @@
   BDDave-Student
   
 3. What is the IP for your Ubuntu Linux server?  
-  TBA
+  Public: 54.146.142.183  
+  Private:  10.0.0.20
   
 4. What command did you use to ssh in to your Linux server?  
-  ssh -i [TBA Key] ubuntu@[TBA IP]
+  ssh -i dave-ceg2410-key.pem ubuntu@54.146.142.183  
   
 5. What port does ssh use?   
   22
 
 6. Insert a screenshot here of your successful connection  
-  ![successful connection](TBA-image)
+  ![linux successful connection](images/linux-success.PNG)
   
 7. What is the IP for your Windows 2019 server?  
-  TBA
+  54.165.211.157
   
 8. What remote desktop software did you use to connect to your Windows Server?  
   Remote Desktop Connection
