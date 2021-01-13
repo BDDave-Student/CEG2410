@@ -1,14 +1,16 @@
 # CEG2410-Project1
 
-- Name:
-- Email: 
+- Name:  Brandon Dave
+- Email:  dave.15@wright.edu
 
 1. What is your Discord username?
-
+  Ganon#9652 nicknamed Brandon Dave
+  
 2. What is your GitHub username?
-
+  BDDave-Student
+  
 3. What is the IP for your Ubuntu Linux server?
-
+  
 4. What command did you use to ssh in to your Linux server?
 
 5. What port does ssh use? 
