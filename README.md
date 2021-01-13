@@ -10,8 +10,8 @@
   BDDave-Student
   
 3. What is the IP for your Ubuntu Linux server?  
-  Public: 54.146.142.183  
-  Private:  10.0.0.20
+  Public:  54.146.142.183  
+  Private:  10.0.0.20  
   
 4. What command did you use to ssh in to your Linux server?  
   ssh -i dave-ceg2410-key.pem ubuntu@54.146.142.183  
@@ -23,7 +23,8 @@
   ![linux successful connection](images/linux-success.PNG)
   
 7. What is the IP for your Windows 2019 server?  
-  54.165.211.157
+  Public:  54.165.211.157  
+  Private:  10.0.0.30  
   
 8. What remote desktop software did you use to connect to your Windows Server?  
   Remote Desktop Connection
@@ -32,7 +33,7 @@
 3389
 
 10. Insert a screenshot here of your successful connection  
-![windows successful connection](TBA-image)
+![windows successful connection](windows-success.PNG)
 
 ### Provide a description of the following commands
 
@@ -44,7 +45,7 @@
 
 14. `git push`:  Updates working files into chain of development to be sent to the final development phase.
 
-15. Create a **clickable** link to your git cheatsheat of choice (you may use mine):  [Cheat Sheet](git-guide.md)
+15. Create a **clickable** link to your git cheatsheat of choice (you may use mine):  [Brandon's Git Cheat Sheet](git-guide.md)
 
 ## Useful links:
 
