@@ -35,13 +35,13 @@
 
 ### Provide a description of the following commands
 
-11. `git clone`
+11. `git clone`:   "Clone" an existing repository into working directory
 
-12. `git add`
+12. `git add`:   "Add" current working specified file or files as a "version" to be added for committing changes
 
-13. `git commit`
+13. `git commit`:  "Commit" working changes into the active branch or repository.
 
-14. `git push`
+14. `git push`:  Updates working files into chain of development to be sent to the final development phase.
 
 15. Create a **clickable** link to your git cheatsheat of choice (you may use mine):  [Cheat Sheet](git-guide.md)
 
