@@ -33,7 +33,7 @@
 3389
 
 10. Insert a screenshot here of your successful connection  
-![windows successful connection](windows-success.PNG)
+![windows successful connection](images/windows-success.PNG)
 
 ### Provide a description of the following commands
 
