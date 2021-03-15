@@ -5,5 +5,5 @@
 ## Install Apache2
 ![systemctl of apache2](/images/apache2_systemctl.PNG)
 
-## Modify index.html
+## Modify /var/www/html/index.html
 ![new apache copter](/images/newindex_apache2.PNG)
