@@ -6,6 +6,8 @@
 ![NetBIOS](/project5/windows/images/project5_NetBIOS.PNG)  
 4)  After installation and a reboot, confirm in network settings that the network settings are configured with the configured settings entered through the Wizard Setup.  
 ![New connection](/project5/windows/images/project5_newConnection.PNG)  
+Review Server Manager's Active Directory Administrator Center
+![Server Manager AD Tool](/project5/windows/images/project5_ADAdminCenter.PNG)
 
 
 ## Active Directory Info
