@@ -15,9 +15,15 @@ Review Server Manager's Active Directory Administrator Center
 2)  AD Admin Center utilizes a more colorful and informative UI whereas AD Users and Computers uses a more succint, to-the-point, UI.  I created Users for the new OU, UD and WSU, using AD Users and Computers.  
 ![New Students WSU](/project5/windows/images/project5_newUsersWSU.PNG)  
 ![New Students UD](/project5/windows/images/project5_newUsersUD.PNG)  
-3)  Adding a new computer:
+3)  Adding a new computer:  
 ![New Computer System](/project5/windows/images/project5_newConnection.PNG)
-4)
+4)  Configuring other system:  
+* Edit Name Field:  
+{insert image here}
+* Set IPv4:  
+(insert image here)
+5)  Joining the machine to the domain:
+
 
 ## Active Directory Info
 1)  Private IP: 10.0.0.30
