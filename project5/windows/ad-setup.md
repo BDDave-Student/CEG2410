@@ -3,7 +3,7 @@
 2)  Create a new forest with an applicable name  
 ![new forest](/project5/windows/images/project5_NetBIOS.PNG)  
 3)  Define a NetBIOS Domain Name  
-![NetBIOS](/main/project5/windows/images/project5_NetBIOS.PNG)  
+![NetBIOS](/project5/windows/images/project5_NetBIOS.PNG)  
 4)  After installation and a reboot, confirm in network settings that the network settings are configured with the configured settings entered through the Wizard Setup.  
 ![New connection](/project5/windows/images/project5_newConnection.PNG)  
 
