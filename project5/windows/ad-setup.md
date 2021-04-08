@@ -1,7 +1,7 @@
 # Active Directory Setup
 1)  Install-windowsfeature -name AD-Domain-Services -IncludeManagementTools
 2)  Create a new forest with an applicable name  
-(insert image here)  
+!(new_forest)[/images/project5_NetBIOS.PNG]
 3)  Define a NetBIOS Domain Name  
 (insert image here)  
 4)  After installation and a reboot, confirm in network settings that the network settings are configured with the configured settings entered through the Wizard Setup.  
