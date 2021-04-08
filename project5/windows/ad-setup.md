@@ -9,6 +9,10 @@
 Review Server Manager's Active Directory Administrator Center
 ![Server Manager AD Tool](/project5/windows/images/project5_ADAdminCenter.PNG)
 
+# Managing AD
+1)  Setting up new OU for campus specific locations
+![Campus based OU](/project5/windows/images/project5_newOU.PNG)
+2) 
 
 ## Active Directory Info
 1)  Private IP: 10.0.0.30
