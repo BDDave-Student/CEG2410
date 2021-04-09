@@ -4,7 +4,7 @@
 ![new forest](/project5/windows/images/project5_newForest.PNG)  
 3)  Define a NetBIOS Domain Name  
 ![NetBIOS](/project5/windows/images/project5_NetBIOS.PNG)  
-4)  After installation and a reboot, confirm in network settings that the network settings are configured with the configured settings entered through the Wizard Setup.  
+4)  After installation and a reboot, confirm in network settings that the network settings are configured with the entries from the Wizard Setup.  
 ![New connection](/project5/windows/images/project5_newConnection.PNG)  
 Review Server Manager's Active Directory Administrator Center
 ![Server Manager AD Tool](/project5/windows/images/project5_ADAdminCenter.PNG)
@@ -16,24 +16,35 @@ Review Server Manager's Active Directory Administrator Center
 ![New Students WSU](/project5/windows/images/project5_newUsersWSU.PNG)  
 ![New Students UD](/project5/windows/images/project5_newUsersUD.PNG)  
 3)  Adding a new computer:  
-![New Computer System](/project5/windows/images/project5_newConnection.PNG)
+![New Computer System](/project5/windows/images/project5_newComputer.PNG)
 4)  Configuring other system:  
 * Edit Name Field:  
-{insert image here}
+!
 * Set IPv4:  
 (insert image here)
 5)  Joining the machine to the domain:
 
 
 ## Active Directory Info
-1)  Private IP: 10.0.0.30
-2)  Subnet:  255.255.255.0  
-3)  GatewayIP:  10.0.0.1
-4)  DNS Server:  
+Connection-specific DNS Suffix: ec2.internal
+DHCP Enabled: Yes
+IPv4 Address: 10.0.0.30
+IPv4 Subnet Mask: 255.255.255.0
+IPv4 Default Gateway: 10.0.0.1
+IPv4 DHCP Server: 10.0.0.1
+IPv4 DNS Server: 
+IPv4 WINS Server: 
+NetBIOS over Tcpip Enabled: Yes
+
 
 ## AWS Machine Info
 Name:  WINDOWS-AWS
-1)  Private IP: 10.0.0.35
-2)  Subnet:  255.255.255.0  
-3)  GatewayIP:  10.0.0.1
-4)  DNS Server:  
+Connection-specific DNS Suffix: ec2.internal
+DHCP Enabled: Yes
+IPv4 Address: 10.0.0.35
+IPv4 Subnet Mask: 255.255.255.0
+IPv4 Default Gateway: 10.0.0.1
+IPv4 DHCP Server: 10.0.0.1
+IPv4 DNS Server: 10.0.0.2
+IPv4 WINS Server: 
+NetBIOS over Tcpip Enabled: Yes
