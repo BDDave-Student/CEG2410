@@ -19,11 +19,9 @@ Review Server Manager's Active Directory Administrator Center
 ![New Computer System](/project5/windows/images/project5_newComputer.PNG)
 4)  Configuring other system:  
 * Edit Name Field:  
-!
-* Set IPv4:  
-(insert image here)
-5)  Joining the machine to the domain:
-![New Computer on AD Network](/project5/windows/images/project5_JoinComputer.PNG)
+![New Computer Configuration](/project5/windows/images/project5_ComputerConfig.PNG)  
+5)  Joining the machine to the domain:  
+![New Computer on AD Network](/project5/windows/images/project5_JoinComputer.PNG)  
 
 ## Active Directory Info  
 Connection-specific DNS Suffix: ec2.internal  
