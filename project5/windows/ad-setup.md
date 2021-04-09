@@ -25,26 +25,26 @@ Review Server Manager's Active Directory Administrator Center
 5)  Joining the machine to the domain:
 
 
-## Active Directory Info
-Connection-specific DNS Suffix: ec2.internal
-DHCP Enabled: Yes
-IPv4 Address: 10.0.0.30
-IPv4 Subnet Mask: 255.255.255.0
-IPv4 Default Gateway: 10.0.0.1
-IPv4 DHCP Server: 10.0.0.1
-IPv4 DNS Server: 
-IPv4 WINS Server: 
-NetBIOS over Tcpip Enabled: Yes
+## Active Directory Info  
+Connection-specific DNS Suffix: ec2.internal  
+DHCP Enabled: Yes  
+IPv4 Address: 10.0.0.30  
+IPv4 Subnet Mask: 255.255.255.0  
+IPv4 Default Gateway: 10.0.0.1  
+IPv4 DHCP Server: 10.0.0.1  
+IPv4 DNS Server:   
+IPv4 WINS Server:   
+NetBIOS over Tcpip Enabled: Yes  
 
 
-## AWS Machine Info
-Name:  WINDOWS-AWS
-Connection-specific DNS Suffix: ec2.internal
-DHCP Enabled: Yes
-IPv4 Address: 10.0.0.35
-IPv4 Subnet Mask: 255.255.255.0
-IPv4 Default Gateway: 10.0.0.1
-IPv4 DHCP Server: 10.0.0.1
-IPv4 DNS Server: 10.0.0.2
-IPv4 WINS Server: 
-NetBIOS over Tcpip Enabled: Yes
+## AWS Machine Info  
+Name:  WINDOWS-AWS  
+Connection-specific DNS Suffix: ec2.internal  
+DHCP Enabled: Yes  
+IPv4 Address: 10.0.0.35  
+IPv4 Subnet Mask: 255.255.255.0  
+IPv4 Default Gateway: 10.0.0.1  
+IPv4 DHCP Server: 10.0.0.1  
+IPv4 DNS Server: 10.0.0.2  
+IPv4 WINS Server:   
+NetBIOS over Tcpip Enabled: Yes  
