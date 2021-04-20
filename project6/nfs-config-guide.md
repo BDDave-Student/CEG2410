@@ -16,6 +16,7 @@
     b) `rw`:  The filesystem is writable  
     c) `sync`:  reply clients after data have been stored to stable storage  
     d) `no_subtree_check`:  If a subdirectory of a filesystem is exported, but the whole filesystem isn't then whenever a NFS request arrives, the server must check not only that the accessed file is in the appropriate filesystem (which is easy) but also that it is in the exported tree (which is harder).  This is used not only for security purposes, but also reliability.  
+    e)  Reboot NFS Export Config:  `sudo exportfs -a` 
 10)  Outside Network:  `ssh -i dave-ceg2410-key.pem ubuntu@3.217.241.164` or Inside Network:  `sudo ssh -i .ssh/dave-ceg2410-key.pem ubuntu@10.0.0.9`  
 11)  a)  System update:  `sudo apt-get update`  
      b)  Client Installation:  `sudo apt install nfs-common`  
